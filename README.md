@@ -6,7 +6,7 @@
 - 🎓 Earned a [Master of Architecture](https://www.arch.virginia.edu/programs/architecture/graduate) at the University of Virginia's advanced placement program.
 - 🔥 Passionate about developing intuitive, user-centered web experiences, with a focus on UX/UI design and AI integration.
 - 🐶 Recently built a responsive web app for browsing adoptable dogs, with [API integration](https://github.com/abigailjulie/Fetch) and an interactive UI.
-- 🛠️ Coming Soon: Art Feen Client Portal. A custom platform for an architecture firm designed to transform project delivery. 
+- 🛠️ Coming Soon: The Portal. A custom platform for an architecture firms designed to transform project delivery. 
 - 🚀 Currently learning Typescript!
 
 ### Teck Stack
